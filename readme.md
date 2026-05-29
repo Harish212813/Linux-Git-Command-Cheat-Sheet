@@ -32,3 +32,5 @@ Search for text patterns.
 ##11. git status
 Shows the current state of the repository.
 
+##12. git add
+Stages changes for the next commit.
