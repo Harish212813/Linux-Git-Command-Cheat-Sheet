@@ -7,3 +7,6 @@ Lists files and directories.
 Changes the current directory
 ## 4. mkdir
 Creates a new direcotry
+## 5. touch
+Create a new empty file
+
