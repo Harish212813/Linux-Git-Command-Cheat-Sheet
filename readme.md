@@ -19,4 +19,5 @@ Removes files or directories.
 Displays file contents
 ##10. grep
 Search for text patterns
-
+##11. git status
+Shows the current state of the repository.
