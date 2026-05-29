@@ -5,3 +5,5 @@ Shows the current working directory.
 Lists files and directories.
 ## 3. cd
 Changes the current directory
+## 4. mkdir
+Creates a new direcotry
