@@ -4,9 +4,9 @@ Shows the current working directory.
 ## 2. ls
 Lists files and directories.
 ## 3. cd
-Changes the current directory
+Changes the current directory.
 ## 4. mkdir
-Creates a new direcotry
+Creates a new directory.
 ## 5. touch
-Create a new empty file
+Creates a new empty file.
 
