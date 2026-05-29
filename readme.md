@@ -13,3 +13,5 @@ Creates a new empty file.
 Copies files and directories.
 ## 7. mv
 Moves or renames files and directories.
+##8. rm
+Removes files or directories.
