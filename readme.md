@@ -17,4 +17,6 @@ Moves or renames files and directories.
 Removes files or directories.
 ##9. cat
 Displays file contents
+##10. grep
+Search for text patterns
 
