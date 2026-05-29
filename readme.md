@@ -15,3 +15,6 @@ Copies files and directories.
 Moves or renames files and directories.
 ##8. rm
 Removes files or directories.
+##9. cat
+Displays file contents
+
