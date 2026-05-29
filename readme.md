@@ -34,3 +34,6 @@ Shows the current state of the repository.
 
 ##12. git add
 Stages changes for the next commit.
+
+##13. git commit
+Saves stages changes to the repository.
