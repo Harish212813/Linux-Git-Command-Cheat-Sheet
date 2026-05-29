@@ -11,3 +11,5 @@ Creates a new directory.
 Creates a new empty file.
 ## 6. cp
 Copies files and directories.
+## 7. mv
+Moves or renames files and directories.
