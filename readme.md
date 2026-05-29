@@ -9,4 +9,5 @@ Changes the current directory.
 Creates a new directory.
 ## 5. touch
 Creates a new empty file.
-
+## 6. cp
+Copies files and directories.
