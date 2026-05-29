@@ -38,5 +38,8 @@ Stages changes for the next commit.
 ##13. git commit
 Saves stages changes to the repository.
 
-##14 git push
+##14. git push
 Uploads local commits to a remote repository.
+
+##15. git pull
+Downloads and merges changes from a remote repository.
