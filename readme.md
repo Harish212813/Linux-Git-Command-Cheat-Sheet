@@ -1,4 +1,5 @@
 # Linux and Git Command Cheat Sheet
+
 ## 1. pwd
 Shows the current working directory.
 
@@ -20,26 +21,26 @@ Copies files and directories.
 ## 7. mv
 Moves or renames files and directories.
 
-##8. rm
+## 8. rm
 Removes files or directories.
 
-##9. cat
+## 9. cat
 Displays file contents
 
-##10. grep
+## 10. grep
 Search for text patterns.
 
-##11. git status
+## 11. git status
 Shows the current state of the repository.
 
-##12. git add
+## 12. git add
 Stages changes for the next commit.
 
-##13. git commit
+## 13. git commit
 Saves stages changes to the repository.
 
-##14. git push
+## 14. git push
 Uploads local commits to a remote repository.
 
-##15. git pull
+## 15. git pull
 Downloads and merges changes from a remote repository.
